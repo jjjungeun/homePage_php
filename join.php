@@ -1,6 +1,6 @@
 <html>
 <body>
-	<form method ="post" action="login01.php">
+	<form method ="post" action="join_ok.php">
 		<table>
 			<tr> 
 				<td>EMAILL 
@@ -23,7 +23,7 @@
 			</tr>
 		
 			<tr>
-				<td><input type="submit" value="JOIN US" onclick="alert('welcome!')"/>
+				<td><input type="submit" value="JOIN US"/>
 				<td><input type="reset" value="CANCLE" />
 			</tr>
 		</table>

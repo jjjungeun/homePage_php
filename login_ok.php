@@ -20,5 +20,4 @@
 	session_start();
 	$_SESSION['email'] = $user_email;
 ?>
-
-<meta http-equiv='refresh' content='0; url=main.php'>
+<meta http-equiv='refresh' content='0; url=main_page_frame.php'>
